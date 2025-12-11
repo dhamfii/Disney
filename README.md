@@ -32,3 +32,4 @@ The dataset used in this project was downloaded from Kaggle, publicly available 
 
 
 6.Screensort / Demo
+https://github.com/dhamfii/Disney/blob/main/Screenshot%202025-12-11%20164304.png
